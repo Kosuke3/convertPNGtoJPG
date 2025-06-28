@@ -1,0 +1,2 @@
+# convertPNGtoJPG
+指定フォルダ内にあるPNG画像をJPGに変換し、PNGファイルを削除（要Imagemagickインストール）
