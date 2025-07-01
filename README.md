@@ -50,10 +50,10 @@
 ※「convertPNGtoJPG.zsh」のファイル名、指定したいフォルダ名を直接入力しなくても、それぞれターミナル上にドラッグ＆ドロップ＋リターンキーでスタートできます。
 
 - 実行中の画面はこのような感じです。（PNGファイルが4つあった場合のイメージ）  
-📊変換結果：/Volumes/指定した最上位フォルダのパス/中のフォルダA/その中のフォルダ1……/PNGファイルA.png X.XX MB 　PNGファイルA.jpg XXX.X kB bytes → PNGファイルA.pngを削除  
-📊変換結果：/Volumes/指定した最上位フォルダのパス/中のフォルダA/その中のフォルダ2……/PNGファイル2.png XXX.X kB 　PNGファイル2.jpg XX.X kB bytes → PNGファイル2.pngを削除  
-📊変換結果：/Volumes/指定した最上位フォルダのパス/中のフォルダB/その中のフォルダ3……/PNGファイル3 XXX.X kB 　PNGファイル3.jpg XX.X kB bytes → PNGファイル3.pngを削除  
-📊変換結果：/Volumes/指定した最上位フォルダのパス/中のフォルダB/その中のフォルダ4……/PNGファイル4 XXX.X kB 　PNGファイル4.jpg 24.1 kB bytes → PNGファイル4.pngを削除  
+📊変換結果：/Volumes/指定した最上位フォルダのパス/中のフォルダA/その中のフォルダ1……/PNGファイルA.png X.XX MB 　変換ファイルA.jpg XXX.X kB bytes → PNGファイルA.pngを削除  
+📊変換結果：/Volumes/指定した最上位フォルダのパス/中のフォルダA/その中のフォルダ2……/PNGファイル2.png XXX.X kB 　変換ファイル2.jpg XX.X kB bytes → PNGファイル2.pngを削除  
+📊変換結果：/Volumes/指定した最上位フォルダのパス/中のフォルダB/その中のフォルダ3……/PNGファイル3 XXX.X kB 　変換ファイル3.jpg XX.X kB bytes → PNGファイル3.pngを削除  
+📊変換結果：/Volumes/指定した最上位フォルダのパス/中のフォルダB/その中のフォルダ4……/PNGファイル4 XXX.X kB 　変換ファイル4.jpg XX.X kB bytes → PNGファイル4.pngを削除  
 
 - ※1 初めて使用する際には、スクリプトの実行権限の付与が必要になります。ターミナル上で  
 **ユーザー名@ホスト（PC）名 ~ % chmod +x*（ここにconvertPNGtoJPG.zshをドラッグ＆ドロップ）  **
